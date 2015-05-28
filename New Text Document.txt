@@ -1,3 +1,5 @@
 This is a test of github.
 
 Adding this line as a revision test.
+
+This third line added in vi using Git Bash, after the second line change had been committed locally but not yet pushed to the server.
